@@ -54,6 +54,8 @@
 /math/gen-func/ogf /math/poly/ogf
 /math/gen-func/egf /math/poly/egf
 /math/gen-func/dgf /math/poly/dgf
+/math/balanced-ternary /math/numeral-sys/balanced-ternary
+/math/base /math/numeral-sys/base
 /math/combination /math/combinatorics/combination
 /math/catalan /math/combinatorics/catalan
 /math/stirling /math/combinatorics/stirling
@@ -64,6 +66,7 @@
 /math/fibonacci /math/combinatorics/fibonacci
 /math/drawer-principle /math/combinatorics/drawer-principle
 /math/eulerian /math/combinatorics/eulerian
+/math/notation /intro/symbol
 /math/prime /math/number-theory/prime
 /math/meissel-lehmer /math/number-theory/meissel-lehmer
 /math/gcd /math/number-theory/gcd
@@ -102,6 +105,7 @@
 /math/poly/lagrange /math/numerical/interp
 /math/numerical/lagrange /math/numerical/interp
 /math/poly/cntt /math/poly/ntt
+/math/poly/dgf /math/number-theory/dirichlet
 /math/linear-algebra/gauss /math/numerical/gauss
 /math/integral /math/numerical/integral
 /math/newton /math/numerical/newton
@@ -113,6 +117,9 @@
 /math/permutation-group /math/combinatorics/polya
 /math/number-theory/periodic-continued-fraction /math/number-theory/continued-fraction
 /math/schreier-sims /math/algebra/schreier-sims
+/math/fourier-motzkin-elimination /math/linear-programming
+/math/game-theory/misere-game /math/game-theory/impartial-game
+/misc/gray-code /math/numeral-sys/gray-code
 /geometry/polar-coordinate/ /math/coordinate
 /graph/tree-misc /graph/tree-centroid
 /graph/bridge /graph/cut
@@ -134,4 +141,6 @@
 /ds/2-3-tree /ds/llrbt
 /ds/b-tree /ds/bst
 /ds/bplus-tree /ds/bst
+/ds/loser-tree /basic/merge-sort/
 /graph/min-circle /graph/min-cycle
+/string/automaton /misc/fsm
